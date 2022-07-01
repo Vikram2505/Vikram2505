@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development technologies and currently working with HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT.JS, NODE.JS
 - 🌱 I’m currently learning Node.js and working with React.JS
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me on vikramrambhad25@gmail.com
+- 📫 How to reach me on Gmail at vikramrambhad25@gmail.com
 
 <!---
 Vikram2505/Vikram2505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
