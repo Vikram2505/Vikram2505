@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vikram2505 Frontend Web Developer
 - 👀 I’m interested in Web development technologies and currently working with HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT.JS, NODE.JS
 - 🌱 I’m currently learning Node.js and working with React.JS
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me on Gmail at vikramrambhad25@gmail.com
 
 <!---
